@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestPrueba</string>
+
+    <string name="first">first fragment</string>
+    <string name="second">second fragment</string>
+    <string name="third">third fragment</string>
+    <string name="extra">extra fragment</string>
+
+    <string name="next_button">next</string>
+
+</resources>
